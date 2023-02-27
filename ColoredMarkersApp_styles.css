@@ -6,7 +6,7 @@ h1{
 	/*background-color: red;*/
 	height: 25px;
 	width: 200px;
-	margin:10px auto;/*When the shorthand margin property has two values,
+	margin:10px auto;/*z the shorthand margin property has two values,
 	it sets margin-top and margin-bottom to the first value, and margin-left and margin-right to the second value.*/
 }
 .red{
